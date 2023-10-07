@@ -28,7 +28,7 @@ app.get('/', (request, response) => {
         <div class="content-centered">
             <a href="https://buildpacks.io"><img src="https://buildpacks.io/docs/concepts/how.svg" alt="Buildpacks.io Logo" style="width:50vw;"></a>
         </div>
-        <h1>Hello, Buildpacker first Release!</h1>
+        <h1>Hello, Buildpacker Release!</h1>
     </div>
 </body>
 </html>`);
